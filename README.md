@@ -17,3 +17,5 @@ The cout (carry-out) is generated whenever at least two of the three inputs are 
 Verilog
 assign cout = (a & b) | (b & cin) | (cin & a);
 
+Link of Playground : https://edaplayground.com/x/Yi9q
+                     https://edaplayground.com/x/qvWQ
